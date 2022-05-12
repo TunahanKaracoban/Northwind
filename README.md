@@ -1,1 +1,12 @@
-# TunahanKaracoban-Homework-2
+-	N-Katmanlı Mimari tasarımı(sunum, servis, entity, iş katmanı, dal katmanı)
+-	OOP(class, nesne, interface, kalıtım, çoklu kalıtım, yapıcı metod, kapsülleme)
+-	ORM-Entityframework
+-	Mapper yapısı kurma ve kullanma
+-	Transaction yönetimi(UnitOfWork pattern)
+-	Repository,gereric repository pattern
+-	Generic metod, generic class, generic interface
+-	Depency injeciton
+-	JWTToken dağıtma ve kullanma
+-	REST Api tasarımı
+-	Web Api Setup ayarları
+
